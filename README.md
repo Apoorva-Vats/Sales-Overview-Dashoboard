@@ -2,6 +2,8 @@
 Sales Overview Dashboard in Power BI to track and visualize key metrics—Sales, Profit, and Quantity—across four regions (Central, East, South, and West). The dashboard enables year-on-year (YoY) comparisons, dynamic filtering, and comparison between current and previous year’s performance.
 # Problem Statement
 To develop a dynamic Sales Overview Dashboard in Power BI to track and visualize key metrics—Sales, Profit, and Quantity—across four regions (Central, East, South, and West). The dashboard enables year-on-year (YoY) comparisons, dynamic filtering, and comparison between current and previous year’s performance.
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/c9db777e-f831-4512-86ba-7def7f338a39" />
+
 
 Steps Undertaken
 
